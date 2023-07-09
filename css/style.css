@@ -1,0 +1,33 @@
+body {
+  background-color: #b799ff;
+  font-family: "Raleway", sans-serif;
+}
+.my-bg-color {
+  background-color: #b799ff !important;
+}
+#logo {
+  height: 3rem;
+  margin-bottom: 5%;
+}
+#brand-name {
+  font-size: 1.6rem;
+  font-weight: 900;
+}
+.header-nav {
+  justify-content: space-between;
+}
+section {
+  margin-top: 5%;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  display: block;
+  width: 100%;
+}
+#link-to-portfolio {
+  text-decoration: underline;
+}
+.footer-text {
+  text-align: center;
+}
